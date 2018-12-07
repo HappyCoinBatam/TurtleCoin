@@ -2,7 +2,7 @@
 MIT License
 
 Copyright (c) 2016 luigi1111
-Copyright (c) 2018 The TurtleCoin Developers
+Copyright (c) 2018 The BatamCoin Developers
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
